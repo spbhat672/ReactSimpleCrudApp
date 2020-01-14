@@ -6,7 +6,7 @@ class App extends Component{
   constructor(props){
     super(props);
     this.state={
-      title: 'React simple CRUD application',
+      title:  '<------------ REACT SIMPLE CRUD APPLICATION ------------>',
       act: 0,
       index: '',
       datas: []
